@@ -43,19 +43,6 @@
 
 ---
 
-### ✈️ Flight Tracker
-
-> A flight tracking application using real-time aviation data.
-
-- ✈️ Flight information
-- 🔎 Flight search
-- 📊 Real-time data
-- 🎨 Responsive UI
-
-**Tech:** React.js • Tailwind CSS • AviationStack API
-
----
-
 ### 📈 Zerodha Dashboard Clone
 
 > A responsive trading dashboard inspired by Zerodha.
