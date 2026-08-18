@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Shriram Bodkhe
 
-### 🚀 Full Stack Developer | ☕ Java Developer | 💻 DSA Enthusiast
+### 🚀 Full Stack Developer | ☕ Core Java | 💻 DSA Grinder
 
 <p>
   Building web applications, solving problems, and learning something new every day.
