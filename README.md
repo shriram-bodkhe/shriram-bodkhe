@@ -27,17 +27,18 @@
 
 ## 🚀 Featured Projects
 
-### 🌐 Campus Connect
-> A college-focused platform built using the MERN stack.
+### 📱 Smart Attendance App
 
-- 👨‍🎓 Student networking
-- 💬 Messaging and posts
-- 📚 Study materials
-- 💼 Internship & hackathon information
-- 🚀 Project and activity sharing
-- 🧭 Roadmaps for DSA, Web Development and Data Science
+> A smart attendance management application designed to simplify and digitize the attendance process.
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
+* 👨‍🎓 Student attendance management
+* 📊 Attendance tracking and records
+* 🔐 User authentication and secure access
+* 📅 Daily attendance management
+* 📈 Attendance reports and insights
+* ⚡ Reduces manual attendance work and improves accuracy
+
+**Tech:** streamlit • python • ML • supabase
 
 ---
 
